@@ -1,3 +1,9 @@
 ---
 title: "Michigan Wildfire Risk Assesment"
 ---
+
+![Map of Michigan Wildfire Exposure Risk. Using LANDFIRE FVT data.](portfolio_images/500m.png){width="614"}
+
+# Mapping Wildfire Exposure Risk
+
+Maps of widlfire risk are essential to land managers,
